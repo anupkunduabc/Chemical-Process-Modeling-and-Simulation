@@ -1,53 +1,81 @@
-# 🧪 Python for Chemical Engineering
+# 🧠 Process Modeling and Simulation – Chemical Engineering
 
-This repository provides a set of Python-based Jupyter notebooks for core topics in chemical engineering, including mass balances, thermodynamics, fluid mechanics, heat transfer, and reactor design.
+This repository provides notebooks, code samples, and simulation examples for **Process Modeling and Simulation**. It includes analytical and numerical solutions using Excel, MATLAB, and Python to solve real-world chemical engineering problems.
 
-👨‍🏫 Instructor: Dr. Anup Kundu  
-📺 YouTube: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
-
----
-
-## 🚀 Launch Notebooks in Google Colab
-
-| Topic                        | Notebook Link |
-|-----------------------------|---------------|
-| Python Basics               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/python_basics.ipynb) |
-| Mass Balance                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/mass_balance.ipynb) |
-| Thermodynamics              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/thermodynamics.ipynb) |
-| Fluid Flow Calculations     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/fluid_flow.ipynb) |
-| Heat Transfer               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/heat_transfer.ipynb) |
-| Reactor Design              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/reactor_design.ipynb) |
+📺 [YouTube – Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 ---
 
-## 🧰 Requirements
-
-This course uses:
-- `numpy`, `scipy`, `matplotlib`, `sympy`
-- `pandas`, `seaborn`, `plotly`
-- Google Colab (no installation required)
+## 📘 Course Topics
 
 ---
 
-## 📂 Repository Structure
+### 🔹 UNIT I: Introduction
 
-| Folder         | Description                           |
-|----------------|---------------------------------------|
-| `notebooks/`   | Jupyter notebooks per topic           |
-| `assignments/` | Exercises and homework problems       |
-| `datasets/`    | Input data for simulation problems    |
-| `projects/`    | Mini or term project templates        |
-| `slides/`      | Optional presentation materials       |
+- Basics of modeling and simulation
+- Classification of mathematical models
+- Conservation equations and auxiliary relations
+- Introduction to software tools: Excel, Polymath, MATLAB
+- Simple applications (e.g., terminal velocity using Re number)
 
----
-
-## 📥 How to Use
-
-1. Visit this repo: `https://github.com/your-username/python-for-chemical-engineering`
-2. Click on any notebook
-3. Click the Colab badge or **Open in Colab** at the top
+📁 Folder: `notebooks/unit1_intro/`
 
 ---
 
-📧 Contact: anupkundu@gmail.com  
-🌐 Subscribe: [YouTube - Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
+### 🔹 UNIT II: Steady-State Lumped Systems
+
+- Degree of freedom analysis
+- Modeling of single and network process units
+- Algebraic equations: linear and nonlinear
+- Flowsheeting techniques: modular & equation-oriented
+- Tearing, partitioning, precedence ordering
+
+🛠 Practice:
+- Solving linear & nonlinear equations using Excel, Polymath, MATLAB
+
+📁 Folder: `notebooks/unit2_steady_lumped/`
+
+---
+
+### 🔹 UNIT III: Unsteady-State Lumped Systems
+
+- Dynamic analysis of:
+  - Liquid level tank
+  - Jacketed stirred tank heater
+  - Reactors
+  - Flash and distillation columns
+- Solution of ODE-IVPs
+- Matrix differential equations
+- Closed-loop simulation
+
+🛠 Practice:
+- Tank level dynamics
+- Plug flow reactor simulation in MATLAB/Polymath
+
+📁 Folder: `notebooks/unit3_unsteady_lumped/`
+
+---
+
+### 🔹 UNIT IV: Steady-State Distributed Systems
+
+- Compressible flow, heat exchangers, packed columns
+- Plug flow reactor with axial dispersion
+- Boundary value problems (ODE-BVP)
+
+🛠 Practice:
+- Open-loop and closed-loop simulation in MATLAB/Polymath
+
+📁 Folder: `notebooks/unit4_steady_distributed/`
+
+---
+
+### 🔹 UNIT V: Unsteady-State Distributed Systems & Advanced Modeling
+
+- Laminar flow, boundary layers, sedimentation, conduction
+- Packed bed heat and mass transfer
+- PDE classification and solutions
+- Empirical modeling & parameter estimation
+- Population balances and stochastic models
+
+ 
+🌐 YouTube: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
