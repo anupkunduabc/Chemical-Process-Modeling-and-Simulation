@@ -41,6 +41,15 @@ This repository provides notebooks, code samples, and simulation examples for **
 - Solution of ODE-IVPs
 - Matrix differential equations
 - Closed-loop simulation
+- [Modelling of the Mixing Tank: Chemical Process Modelling and Simulation](https://youtu.be/jP3P9psQkKA)
+- [Modeling of a Perfectly Mixed Tank](https://youtu.be/fGmH2AUaavg)
+- [Applying the Continuity Equation and Mass Balance in Flow Through Pipe Modeling](https://youtu.be/kV5qqjjeaQs)
+- [Component Continuity Equations and CSTR Modeling](https://youtu.be/CYU0S107Huk)
+- [Modeling a CSTR for First-Order Consecutive Reactions](https://youtu.be/tqkPkvL9Vsg)
+- [The Energy Equation in CSTR with Heat Removal](https://youtu.be/VKUgHaiVkH0)
+- [Series of Isothermal, Constant-Holdup CSTRs](https://youtu.be/jtNIvIErJt8)
+- [Mass and Energy Balance for Two Heated Tanks](https://youtu.be/GIFQjCBQNeU)
+- [Series of Isothermal Variable Holdup CSTRs](https://youtu.be/MNYFrVMYc-k)
 
 
 
