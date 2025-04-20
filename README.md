@@ -30,12 +30,6 @@ This repository provides notebooks, code samples, and simulation examples for **
 - Flowsheeting techniques: modular & equation-oriented
 - Tearing, partitioning, precedence ordering
 
-🛠 Practice:
-- Solving linear & nonlinear equations using Excel, Polymath, MATLAB
-
-📁 Folder: `notebooks/unit2_steady_lumped/`
-
----
 
 ### 🔹 UNIT III: Unsteady-State Lumped Systems
 
@@ -48,25 +42,13 @@ This repository provides notebooks, code samples, and simulation examples for **
 - Matrix differential equations
 - Closed-loop simulation
 
-🛠 Practice:
-- Tank level dynamics
-- Plug flow reactor simulation in MATLAB/Polymath
 
-📁 Folder: `notebooks/unit3_unsteady_lumped/`
-
----
 
 ### 🔹 UNIT IV: Steady-State Distributed Systems
 
 - Compressible flow, heat exchangers, packed columns
 - Plug flow reactor with axial dispersion
 - Boundary value problems (ODE-BVP)
-
-🛠 Practice:
-- Open-loop and closed-loop simulation in MATLAB/Polymath
-
-📁 Folder: `notebooks/unit4_steady_distributed/`
-
 ---
 
 ### 🔹 UNIT V: Unsteady-State Distributed Systems & Advanced Modeling
